@@ -1,0 +1,44 @@
+body{
+    background-color :#EAF6F6;
+}
+hr{
+    
+    border-style: dotted none none none;
+
+    height: 0px;
+    width:5%;
+    border-color: grey;
+    border-width: 5px;
+    
+}
+
+h1{
+color: black;
+}
+h2{
+    
+    color: black;
+}
+h3{
+    color: green;
+}
+img{
+    border-radius: 50%;
+    background-color: white;
+    size-adjust: 50%;
+}
+img:hover{
+    background-color: gold;
+}
+.apple{
+    background-color: purple;
+
+}
+.mango{
+    background-color:blue;
+
+}
+.grapes{
+    background-color: green
+}
+
